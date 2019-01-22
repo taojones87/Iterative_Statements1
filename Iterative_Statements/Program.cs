@@ -16,7 +16,7 @@ namespace Iterative_Statements
 
                 // Run the for loop for the iteration.
 
-                for (int i = 0; i <= value; i++)
+                for (int i = 1; i <= value; i++)
                 {
                     Console.WriteLine("You have entered " + input + ". This is the current integer value in the loop: " + i.ToString());
                 }
